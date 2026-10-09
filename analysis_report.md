@@ -1,11 +1,11 @@
 # Phishing Email Analysis Report
 
-## 📧 Overview
+## Overview
 This report analyzes a sample phishing email to identify common indicators of malicious intent. The goal is to understand how attackers use deception techniques to trick users into revealing sensitive information.
 
 ---
 
-## 🧪 Sample Email Summary
+## Sample Email Summary
 - **Subject:** Urgent: Your Account Has Been Suspended  
 - **Sender:** support@paypaI.com  
 - **Claim:** Account suspension due to suspicious activity  
@@ -66,14 +66,14 @@ The attacker uses:
 
 ---
 
-## 🛠 Tools That Can Be Used
+## Tools That Can Be Used
 - Online email header analyzers  
 - Email clients (for inspecting full headers)  
 - URL checking tools  
 
 ---
 
-## ✅ Recommended Actions
+## Recommended Actions
 - Do not click suspicious links  
 - Verify sender through official website  
 - Report the email as phishing  
@@ -81,12 +81,12 @@ The attacker uses:
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 This email is a phishing attempt. It uses multiple deceptive techniques such as spoofed sender addresses, fake URLs, urgency tactics, and social engineering to trick the recipient into revealing sensitive information.
 
 ---
 
-## 🔑 Key Concepts
+## Key Concepts
 - Phishing  
 - Email Spoofing  
 - Social Engineering  
